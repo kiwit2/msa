@@ -79,3 +79,123 @@ p.firstParagraph{
 	height: 500px;
 	width: 500px;
 }
+
+/*======================================contact===============================================*/
+
+#contactContainer {
+	padding-top: 50px;	
+}
+
+.contact_form
+{
+	background:#fff;
+	margin:0 auto;
+	text-align:left;
+	width:550px;
+}
+
+#top
+{
+	display:block;
+	height:10px;
+	margin:10px auto 0;
+	width:1000px;
+}
+
+#bottom
+{
+	display:block;
+	height:10px;
+	margin:0 auto;
+	width:1000px;
+}
+
+.form_heading
+{
+	text-transform: uppercase;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	
+	letter-spacing: 0.20em;
+	text-decoration: none;
+	font-size: 1.80em;
+	font-weight: 600;
+	text-transform: uppercase;
+	outline: 0;
+	color: #000;
+}
+
+.form_container
+{
+	background:#fff;
+	margin:0 auto;
+	text-align:center;
+	width:1000px;
+}
+
+form li {
+	padding-bottom: 9px;
+	padding-top:9px;
+}
+
+.dotted_divisor
+{
+	border-top:1px dotted #ccc;
+}
+
+#first_name
+{
+	
+}
+
+#last_name
+{
+	width: 170px;
+	float: right;
+}
+
+#email_address
+{
+	float: right;
+	width: 380px;
+}
+
+#email_body {
+	width: 500px;
+    height: 200px;
+}
+
+#email_subject {
+	width: 500px;
+}
+
+.submit_button
+{
+	padding: 1em 6em;
+	background: #EEE;
+	text-transform: uppercase;
+	font-weight: 600;
+	color: #000;	
+	letter-spacing: 0.20em;
+	text-decoration: none;
+	font-size: 0.90em;
+	text-transform: uppercase;
+	color: #000;
+}
+
+.submit_button:hover
+{
+	background: #CCCCCC;
+    cursor: pointer;
+    
+}
+
+#submit_li {
+    text-align: center;
+}
+
+#bottom_container
+{
+	padding-top: 3em;
+	padding-bottom: 30px;
+}
