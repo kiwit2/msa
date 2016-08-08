@@ -19,3 +19,27 @@ p.firstParagraph{
     padding: 25px;
     margin: 25px;
 }
+
+#backgroundHome{
+	
+}
+#aboutdiv{
+	width: 100%;
+	height: 500px;
+}
+
+#centerDiv{
+	
+	height: 500px;
+	width: 1000px;
+}
+#aboutArticle{
+	height: 500px;
+	width: 400px;
+	float: left;
+}
+#myphoto{
+	height: 500px;
+	width: 300px;
+	float: left;
+}
